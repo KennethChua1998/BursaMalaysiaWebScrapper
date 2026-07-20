@@ -1,9 +1,19 @@
 # Bursa Malaysia Financial Data Scraper
 
-This web scraper allows you to obtain financial data for all 800 listed companies on the Bursa Malaysia main market. The data is gathered from a specific website, providing valuable insights into the financial performance of these companies.
+This web scraper allows you to collect financial data for listed companies on Bursa Malaysia's Main Market. The data is gathered from publicly available sources and can be used for financial analysis, research, and further processing.
 
-## Forked From
-This project is a fork of kj-lai/SMFA, which served as the original source. We've adapted the scraper to better suit our needs and objectives.
+## Inspired By
+
+This project was inspired by [kj-lai/SMFA](https://github.com/kj-lai/SMFA). It is an independent implementation focused on Bursa Malaysia data scraping and data processing.
 
 ## Contributing
-We welcome contributions to enhance and improve this project. Feel free to fork the repository, make changes, and submit pull requests.
+
+Contributions are welcome to help enhance and improve this project. Feel free to fork the repository, make changes, and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software, provided that the original copyright notice and license notice are included with any copies or substantial portions of the software.
+
+Copyright (c) 2026 Kenneth Chua
